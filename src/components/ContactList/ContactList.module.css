@@ -1,0 +1,26 @@
+.contactListItemBtn {
+  margin-top: 10px;
+  margin-bottom: 0.5rem;
+  background-color: blue;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-size: 15px;
+  height: 36px;
+  margin-left: 8px;
+  margin-right: 6px;
+  padding: 0 16px 0 16px;
+  color: white;
+  cursor: pointer;
+}
+
+.contactListItemBtn:hover {
+  background-color: black;
+  cursor: pointer;
+}
+
+.contactList {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px;
+}
